@@ -1,0 +1,479 @@
+0000.003 (0) Opened log file at time: Mon, 24 Dec 2018 10:34:13 +0000 on https://kendal-ki-aikido.org.uk
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 5.0.2 PHP: 7.0.33-1~dotdeb+8.1 (fpm-fcgi, Linux lightning 4.18.16-x86_64-linode118 #1 SMP PREEMPT Mon Oct 29 15:38:25 UTC 2018 x86_64) MySQL: 5.7.24-27 WPLANG: en_GB Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 16.1M | 4M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: N
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 11919.3 MB
+0000.022 (0) Deleting old log file: log.63e55da7774d.txt
+0000.027 (0) Deleting old log file: log.575e4a34814f.txt
+0000.027 (0) Deleting old log file: log.d5408fa4132f.txt
+0000.027 (0) Deleting old log file: log.742c782996f1.txt
+0000.027 (0) Deleting old log file: log.04489e3a4403.txt
+0000.027 (0) Deleting old log file: log.048482644a3b.txt
+0000.028 (0) Deleting old log file: log.30ae501726ea.txt
+0000.029 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.033 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.098 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1545042852, seconds_ago=604801)
+0000.124 (0) Set semaphore last lock (fd) time to 2018-12-24 10:34:14
+0000.128 (0) Semaphore lock (fd) complete
+0000.154 (0) Backup run: resumption=0, nonce=6dbaea3b2db9, file_nonce=6dbaea3b2db9 begun at=1545647653 (1s ago), job type=backup
+0000.165 (0) Scheduling a resumption (1) after 531 seconds (1545648185) in case this run gets aborted
+0000.323 (0) Checking if we have a zip executable available
+0000.338 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.347 (0) Creation of backups of directories: beginning
+0000.404 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.307 (0) Total entities for the zip file: 835 directories, 4708 files (0 skipped as non-modified), 88.1 MB
+0002.312 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 90258.8 KB, split: 409600 KB)
+0002.409 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.429 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.462 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.505 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.535 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.553 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.583 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.652 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.683 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.701 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.719 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0002.739 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0002.766 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0002.780 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0002.793 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0002.821 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0002.836 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0002.861 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0002.897 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0002.914 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0002.941 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0002.966 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0003.017 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0003.041 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0003.062 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0003.078 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0003.096 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0003.120 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0003.135 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0003.156 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0003.188 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0003.217 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0003.232 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0003.262 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0003.279 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0003.298 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0003.318 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0003.338 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0003.384 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0003.419 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0003.479 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0003.501 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0003.526 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0003.551 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0003.568 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0003.588 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0003.618 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0148.743 (0) Created plugins zip (0) - 30528.2 KB in 148.3 s (205.8 KB/s) (sha1: 42c0fe716ddda79c11e4d9efb7eb48b058f00f25, sha256: 550a7cb48bcc97b90edc564e33eb87c0c37e4d602e60a5bd09227e13de0ffa79)
+0148.765 (0) Beginning creation of dump of themes (split every: 400 MB)
+0148.900 (0) Total entities for the zip file: 66 directories, 377 files (0 skipped as non-modified), 5.5 MB
+0148.925 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 5627 KB, split: 409600 KB)
+0148.942 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0148.953 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0148.968 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0159.788 (0) Created themes zip (0) - 2147.9 KB in 11 s (195 KB/s) (sha1: 02b0946ac51a71037f98b0c1ee9ab4efe4d8f82a, sha256: 741473ed9d1b1ea64aa532ad421cdad4994765a15d702769b5acf904e656966c)
+0159.850 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0159.869 (0) Looking for candidates to backup in: /home/director/kendal-ki-aikido.org.uk/public/wp-content/uploads
+0159.889 (0) finding files: 2017: adding to list (1)
+0159.894 (0) finding files: 2016: adding to list (2)
+0159.901 (0) finding files: 2015: adding to list (3)
+0159.908 (0) finding files: 2013: adding to list (4)
+0159.914 (0) finding files: 2018: adding to list (5)
+0159.943 (0) finding files: fw-backup: adding to list (6)
+0159.949 (0) finding files: the-core-style.css: adding to list (7)
+0159.958 (0) finding files: revslider: adding to list (8)
+0159.992 (0) finding files: nginx-helper: adding to list (9)
+0160.013 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0160.917 (0) Total entities for the zip file: 87 directories, 1275 files (0 skipped as non-modified), 358.4 MB
+0160.951 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 366988.9 KB, split: 409600 KB)
+0161.003 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0161.015 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0161.039 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0161.065 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0161.086 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0161.115 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 600 files added (on-disk size: 0 KB)
+0161.129 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 700 files added (on-disk size: 0 KB)
+0161.147 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 800 files added (on-disk size: 0 KB)
+0161.160 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 900 files added (on-disk size: 0 KB)
+0161.174 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0161.195 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0161.232 (0) Zip: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0567.455 (1) Opened log file at time: Mon, 24 Dec 2018 10:43:41 +0000 on https://kendal-ki-aikido.org.uk
+0567.498 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.0 WP: 5.0.2 PHP: 7.0.33-1~dotdeb+8.1 (fpm-fcgi, Linux lightning 4.18.16-x86_64-linode118 #1 SMP PREEMPT Mon Oct 29 15:38:25 UTC 2018 x86_64) MySQL: 5.7.24-27 WPLANG: en_GB Server: nginx/1.14.2 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 16.2M | 10M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: N
+0567.578 (1) Free space on disk containing Updraft's temporary directory: 10952.8 MB
+0567.634 (1) Backup run: resumption=1, nonce=6dbaea3b2db9, file_nonce=6dbaea3b2db9 begun at=1545647653 (568s ago), job type=backup, previous check-in=159.5s
+0567.654 (1) Scheduling a resumption (2) after 531 seconds (1545648752) in case this run gets aborted
+0567.668 (1) Checking if we have a zip executable available
+0567.679 (1) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0567.683 (1) Creation of backups of directories: had begun; will resume
+0567.719 (1) Beginning creation of dump of plugins (split every: 400 MB)
+0567.723 (1) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip: this file has already been created (age: 421 s)
+0567.753 (1) Terminate: pclzip-5c20b859bce51.tmp exists with activity within the last 30 seconds (time_mod=1545648221, time_now=1545648221, diff=0, size=105328KB). This likely means that another UpdraftPlus run is at work; so we will exit.
+0567.778 (1) Rescheduling resumption 2: moving to 651 seconds from now (1545648872)
+0567.820 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 531 + 120 = 651
+0582.967 (0) The time we have been running (582.9) is approaching the resumption interval (531) - increasing resumption interval to 613
+0601.255 (0) Created uploads zip (0) - 347892.8 KB in 441.2 s (788.5 KB/s) (sha1: ce4ef0fd054d0240dad160a3173d406da81c5e65, sha256: 271c8d21c940c7f4f9dc77cb09275b65b749c6360209afb023c73aeee7cff8cd)
+0601.342 (0) Beginning backup of other directories found in the content directory (index: 0)
+0601.388 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0601.398 (0) Looking for candidates to backup in: /home/director/kendal-ki-aikido.org.uk/public/wp-content
+0601.407 (0) finding files: updraft: skipping: this is the updraft directory
+0601.417 (0) finding files: themes: skipping: this is the themes directory
+0601.424 (0) finding files: index.php: adding to list (1)
+0601.441 (0) finding files: tmp: adding to list (2)
+0601.453 (0) finding files: plugins: skipping: this is the plugins directory
+0601.481 (0) finding files: upgrade: skipping: excluded by options
+0601.491 (0) finding files: languages: adding to list (3)
+0601.508 (0) finding files: uploads: skipping: this is the uploads directory
+0601.542 (0) Total entities for the zip file: 4 directories, 48 files (0 skipped as non-modified), 3.8 MB
+0601.557 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 3934.9 KB, split: 409600 KB)
+0603.649 (0) The time we have been running (603.6) is approaching the resumption interval (613) - increasing resumption interval to 634
+0603.854 (0) Created others zip (0) - 954.1 KB in 2.3 s (408.5 KB/s) (sha1: b25db241d83c783ad15810d275edf593917c8c03, sha256: dc43764dbcae2fe342ae0c112c39b33c101b88fe610c27e2732682e049044b60)
+0604.207 (0) Saving backup status to database (elements: 8)
+0604.291 (0) Beginning creation of database dump (WordPress DB)
+0604.334 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0604.916 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50717 SELECT COUNT(*) INTO @rocksdb_has_p_s_session_variables FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'performance_schema' AND TABL (truncated - 1976 bytes total)
+0604.935 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0605.350 (0) Table wp_options: Total expected rows (approximate): 422
+0605.461 (0) Table wp_options: Total rows added: 427 in 0.09 seconds
+0605.515 (0) Table wp_options: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_options.table.gz - 78.9 KB)
+0605.589 (0) The time we have been running (605.5) is approaching the resumption interval (634) - increasing resumption interval to 636
+0605.731 (0) Table wp_users: Total expected rows (approximate): 2
+0605.776 (0) Table wp_users: Total rows added: 2 in 0.01 seconds
+0605.801 (0) Table wp_users: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_users.table.gz - 0.7 KB)
+0605.883 (0) Table wp_usermeta: Total expected rows (approximate): 53
+0605.915 (0) Table wp_usermeta: Total rows added: 55 in 0.00 seconds
+0605.944 (0) Table wp_usermeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_usermeta.table.gz - 2 KB)
+0606.161 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0606.184 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0606.219 (0) Table wp_commentmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0606.318 (0) The time we have been running (606.3) is approaching the resumption interval (636) - increasing resumption interval to 637
+0606.380 (0) Table wp_comments: Total expected rows (approximate): 0
+0606.400 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0606.423 (0) Table wp_comments: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_comments.table.gz - 0.5 KB)
+0606.493 (0) Table wp_links: Total expected rows (approximate): 0
+0606.510 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0606.552 (0) Table wp_links: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_links.table.gz - 0.4 KB)
+0606.612 (0) Table wp_postmeta: Total expected rows (approximate): 303
+0606.660 (0) Table wp_postmeta: Total rows added: 314 in 0.02 seconds
+0606.721 (0) Table wp_postmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_postmeta.table.gz - 7.9 KB)
+0606.841 (0) Table wp_posts: Total expected rows (approximate): 122
+0608.067 (0) Table wp_posts: Total rows added: 201 in 1.16 seconds
+0608.078 (0) Table wp_posts: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_posts.table.gz - 426.6 KB)
+0608.101 (0) The time we have been running (608.1) is approaching the resumption interval (637) - increasing resumption interval to 639
+0608.117 (0) Table wp_term_relationships: Total expected rows (approximate): 11
+0608.124 (0) Table wp_term_relationships: Total rows added: 11 in 0.00 seconds
+0608.131 (0) Table wp_term_relationships: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0608.146 (0) Table wp_term_taxonomy: Total expected rows (approximate): 27
+0608.156 (0) Table wp_term_taxonomy: Total rows added: 27 in 0.00 seconds
+0608.163 (0) Table wp_term_taxonomy: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0608.182 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0608.199 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0608.202 (0) Table wp_termmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_termmeta.table.gz - 0.4 KB)
+0608.217 (0) Table wp_terms: Total expected rows (approximate): 27
+0608.225 (0) Table wp_terms: Total rows added: 27 in 0.00 seconds
+0608.231 (0) Table wp_terms: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_terms.table.gz - 0.7 KB)
+0608.249 (0) Table wp_fw_termmeta: Total expected rows (approximate): 11
+0608.263 (0) Table wp_fw_termmeta: Total rows added: 11 in 0.01 seconds
+0608.269 (0) Table wp_fw_termmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_fw_termmeta.table.gz - 1.2 KB)
+0608.286 (0) Table wp_give_customers: Total expected rows (approximate): 0
+0608.295 (0) Table wp_give_customers: Total rows added: 1 in 0.00 seconds
+0608.300 (0) Table wp_give_customers: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_give_customers.table.gz - 0.5 KB)
+0608.319 (0) Table wp_layerslider: Total expected rows (approximate): 1
+0608.329 (0) Table wp_layerslider: Total rows added: 1 in 0.00 seconds
+0608.334 (0) Table wp_layerslider: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_layerslider.table.gz - 0.4 KB)
+0608.350 (0) Table wp_revslider_css: Total expected rows (approximate): 109
+0608.365 (0) Table wp_revslider_css: Total rows added: 109 in 0.01 seconds
+0608.371 (0) Table wp_revslider_css: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_css.table.gz - 4.8 KB)
+0608.390 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0608.397 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0608.402 (0) Table wp_revslider_layer_animations: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0608.421 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0608.429 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0608.434 (0) Table wp_revslider_navigations: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0608.452 (0) Table wp_revslider_settings: Total expected rows (approximate): 1
+0608.466 (0) Table wp_revslider_settings: Total rows added: 1 in 0.00 seconds
+0608.472 (0) Table wp_revslider_settings: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_settings.table.gz - 0.3 KB)
+0608.492 (0) Table wp_revslider_sliders: Total expected rows (approximate): 0
+0608.498 (0) Table wp_revslider_sliders: Total rows added: 0 in 0.00 seconds
+0608.503 (0) Table wp_revslider_sliders: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_sliders.table.gz - 0.3 KB)
+0608.526 (0) Table wp_revslider_slides: Total expected rows (approximate): 0
+0608.532 (0) Table wp_revslider_slides: Total rows added: 0 in 0.00 seconds
+0608.538 (0) Table wp_revslider_slides: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_slides.table.gz - 0.3 KB)
+0608.556 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 0
+0608.569 (0) Table wp_revslider_static_slides: Total rows added: 0 in 0.00 seconds
+0608.573 (0) Table wp_revslider_static_slides: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_static_slides.table.gz - 0.3 KB)
+0608.601 (0) Table wp_smush_dir_images: Total expected rows (approximate): 0
+0608.609 (0) Table wp_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0608.616 (0) Table wp_smush_dir_images: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_smush_dir_images.table.gz - 0.4 KB)
+0608.678 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0608.725 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0608.731 (0) Table wp_woocommerce_api_keys: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0608.758 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0608.769 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0608.776 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0608.801 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0608.812 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0608.845 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0608.868 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0608.876 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0608.881 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0608.914 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0608.927 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0608.934 (0) Table wp_woocommerce_order_items: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0608.968 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 0
+0608.985 (0) Table wp_woocommerce_sessions: Total rows added: 0 in 0.00 seconds
+0609.002 (0) Table wp_woocommerce_sessions: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_sessions.table.gz - 0.3 KB)
+0609.030 (0) The time we have been running (609) is approaching the resumption interval (639) - increasing resumption interval to 640
+0609.085 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0609.096 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0609.102 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0609.129 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0609.177 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.01 seconds
+0609.185 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0609.252 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 0
+0609.268 (0) Table wp_woocommerce_termmeta: Total rows added: 0 in 0.00 seconds
+0609.283 (0) Table wp_woocommerce_termmeta: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_termmeta.table.gz - 0.3 KB)
+0609.339 (0) Table wp_wpgmza: Total expected rows (approximate): 5
+0609.381 (0) Table wp_wpgmza: Total rows added: 5 in 0.01 seconds
+0609.418 (0) Table wp_wpgmza: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza.table.gz - 0.9 KB)
+0609.448 (0) Table wp_wpgmza_categories: Total expected rows (approximate): 0
+0609.454 (0) Table wp_wpgmza_categories: Total rows added: 1 in 0.00 seconds
+0609.464 (0) Table wp_wpgmza_categories: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_categories.table.gz - 0.4 KB)
+0609.519 (0) Table wp_wpgmza_category_maps: Total expected rows (approximate): 0
+0609.533 (0) Table wp_wpgmza_category_maps: Total rows added: 1 in 0.00 seconds
+0609.549 (0) Table wp_wpgmza_category_maps: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_category_maps.table.gz - 0.3 KB)
+0609.570 (0) Table wp_wpgmza_circles: Total expected rows (approximate): 0
+0609.582 (0) Table wp_wpgmza_circles: Total rows added: 0 in 0.00 seconds
+0609.593 (0) Table wp_wpgmza_circles: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_circles.table.gz - 0.3 KB)
+0609.610 (0) Table wp_wpgmza_datasets: Total expected rows (approximate): 0
+0609.616 (0) Table wp_wpgmza_datasets: Total rows added: 0 in 0.00 seconds
+0609.622 (0) Table wp_wpgmza_datasets: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_datasets.table.gz - 0.3 KB)
+0609.657 (0) Table wp_wpgmza_maps: Total expected rows (approximate): 2
+0609.673 (0) Table wp_wpgmza_maps: Total rows added: 2 in 0.00 seconds
+0609.685 (0) Table wp_wpgmza_maps: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_maps.table.gz - 1.1 KB)
+0609.709 (0) Table wp_wpgmza_polygon: Total expected rows (approximate): 0
+0609.728 (0) Table wp_wpgmza_polygon: Total rows added: 0 in 0.00 seconds
+0609.736 (0) Table wp_wpgmza_polygon: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_polygon.table.gz - 0.4 KB)
+0609.767 (0) Table wp_wpgmza_polylines: Total expected rows (approximate): 0
+0609.777 (0) Table wp_wpgmza_polylines: Total rows added: 0 in 0.00 seconds
+0609.782 (0) Table wp_wpgmza_polylines: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_polylines.table.gz - 0.3 KB)
+0609.806 (0) Table wp_wpgmza_rectangles: Total expected rows (approximate): 0
+0609.815 (0) Table wp_wpgmza_rectangles: Total rows added: 0 in 0.00 seconds
+0609.819 (0) Table wp_wpgmza_rectangles: finishing file (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_rectangles.table.gz - 0.3 KB)
+0609.840 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_options.table.gz (1/41): adding to final database dump
+0609.905 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_users.table.gz (2/41): adding to final database dump
+0609.917 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_usermeta.table.gz (3/41): adding to final database dump
+0609.925 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_commentmeta.table.gz (4/41): adding to final database dump
+0609.932 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_comments.table.gz (5/41): adding to final database dump
+0609.946 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_links.table.gz (6/41): adding to final database dump
+0609.954 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_postmeta.table.gz (7/41): adding to final database dump
+0609.965 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_posts.table.gz (8/41): adding to final database dump
+0610.702 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_term_relationships.table.gz (9/41): adding to final database dump
+0610.715 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_term_taxonomy.table.gz (10/41): adding to final database dump
+0610.719 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_termmeta.table.gz (11/41): adding to final database dump
+0610.726 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_terms.table.gz (12/41): adding to final database dump
+0610.729 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_fw_termmeta.table.gz (13/41): adding to final database dump
+0610.734 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_give_customers.table.gz (14/41): adding to final database dump
+0610.752 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_layerslider.table.gz (15/41): adding to final database dump
+0610.755 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_css.table.gz (16/41): adding to final database dump
+0610.763 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_layer_animations.table.gz (17/41): adding to final database dump
+0610.769 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_navigations.table.gz (18/41): adding to final database dump
+0610.773 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_settings.table.gz (19/41): adding to final database dump
+0610.781 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_sliders.table.gz (20/41): adding to final database dump
+0610.788 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_slides.table.gz (21/41): adding to final database dump
+0610.795 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_revslider_static_slides.table.gz (22/41): adding to final database dump
+0610.798 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_smush_dir_images.table.gz (23/41): adding to final database dump
+0610.810 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_api_keys.table.gz (24/41): adding to final database dump
+0610.876 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_attribute_taxonomies.table.gz (25/41): adding to final database dump
+0610.899 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (26/41): adding to final database dump
+0610.927 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_order_itemmeta.table.gz (27/41): adding to final database dump
+0610.935 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_order_items.table.gz (28/41): adding to final database dump
+0610.943 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_sessions.table.gz (29/41): adding to final database dump
+0610.955 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_tax_rate_locations.table.gz (30/41): adding to final database dump
+0610.964 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_tax_rates.table.gz (31/41): adding to final database dump
+0610.971 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_woocommerce_termmeta.table.gz (32/41): adding to final database dump
+0610.993 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza.table.gz (33/41): adding to final database dump
+0611.002 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_categories.table.gz (34/41): adding to final database dump
+0611.009 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_category_maps.table.gz (35/41): adding to final database dump
+0611.016 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_circles.table.gz (36/41): adding to final database dump
+0611.031 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_datasets.table.gz (37/41): adding to final database dump
+0611.040 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_maps.table.gz (38/41): adding to final database dump
+0611.048 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_polygon.table.gz (39/41): adding to final database dump
+0611.055 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_polylines.table.gz (40/41): adding to final database dump
+0611.066 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db-table-wp_wpgmza_rectangles.table.gz (41/41): adding to final database dump
+0611.084 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz: finished writing out complete database file (504 KB)
+0611.161 (0) Total database tables backed up: 41 (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz, size: 539394, sha256)
+0611.271 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0611.285 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0611.302 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0611.310 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip: others: This file has not yet been successfully uploaded: will queue
+0611.332 (0) backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz: db: This file has not yet been successfully uploaded: will queue
+0611.335 (0) Saving backup history. Total backup size: 373.1 MB
+0611.344 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0611.399 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0611.406 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-d0bdcb9064f2e444ccb5c4bce7d39f94)
+0611.410 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0611.484 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0611.953 (0) Dropbox: quota usage: used=361426.6 MB, total=1057152 MB, available=695725.4 MB
+0611.958 (0) Dropbox: Attempt to upload: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip to: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip
+0612.958 (0) The time we have been running (612.9) is approaching the resumption interval (640) - increasing resumption interval to 643
+0612.967 (0) Dropbox chunked upload: 3.4 % uploaded (AAAAAAACAEXCQFvDrw-Mxg, 1048576, 9216 KB)
+0615.522 (0) The time we have been running (615.5) is approaching the resumption interval (643) - increasing resumption interval to 646
+0615.532 (0) Dropbox chunked upload: 33.5 % uploaded (AAAAAAACAEXCQFvDrw-Mxg, 10485760, 10240 KB)
+0619.150 (0) The time we have been running (619.1) is approaching the resumption interval (646) - increasing resumption interval to 650
+0619.176 (0) Dropbox chunked upload: 67.1 % uploaded (AAAAAAACAEXCQFvDrw-Mxg, 20971520, 10240 KB)
+0622.285 (0) The time we have been running (622.2) is approaching the resumption interval (650) - increasing resumption interval to 653
+0622.350 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAACAEXCQFvDrw-Mxg, 31260899, 10240 KB)
+0623.931 (0) Recording as successfully uploaded: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip
+0623.989 (0) Deleting local file: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip: OK
+0623.999 (0) Dropbox: File upload success (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-plugins.zip): 30528 KB in 12s (2535 KB/s)
+0624.415 (0) Dropbox: quota usage: used=361456.4 MB, total=1057152 MB, available=695695.6 MB
+0624.436 (0) Dropbox: Attempt to upload: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip to: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip
+0625.736 (0) The time we have been running (625.7) is approaching the resumption interval (653) - increasing resumption interval to 656
+0625.786 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAACAEZ6dl0-v-dPDQ, 2199412, 10240 KB)
+0627.712 (0) Recording as successfully uploaded: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip
+0627.732 (0) Deleting local file: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip: OK
+0627.736 (0) Dropbox: File upload success (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-themes.zip): 2147 KB in 3s (650 KB/s)
+0628.147 (0) Dropbox: quota usage: used=361458.5 MB, total=1057152 MB, available=695693.5 MB
+0628.151 (0) Dropbox: Attempt to upload: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip to: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip
+0630.809 (0) The time we have been running (630.7) is approaching the resumption interval (656) - increasing resumption interval to 661
+0630.826 (0) Dropbox chunked upload: 2.9 % uploaded (AAAAAAACAEeAUdP1WFGhng, 10485760, 10240 KB)
+0633.046 (0) The time we have been running (633) is approaching the resumption interval (661) - increasing resumption interval to 664
+0633.062 (0) Dropbox chunked upload: 5.9 % uploaded (AAAAAAACAEeAUdP1WFGhng, 20971520, 10240 KB)
+0635.969 (0) The time we have been running (635.9) is approaching the resumption interval (664) - increasing resumption interval to 666
+0636.086 (0) Dropbox chunked upload: 8.8 % uploaded (AAAAAAACAEeAUdP1WFGhng, 31457280, 10240 KB)
+0638.725 (0) The time we have been running (638.7) is approaching the resumption interval (666) - increasing resumption interval to 669
+0638.795 (0) Dropbox chunked upload: 11.8 % uploaded (AAAAAAACAEeAUdP1WFGhng, 41943040, 10240 KB)
+0641.713 (0) The time we have been running (641.6) is approaching the resumption interval (669) - increasing resumption interval to 672
+0641.785 (0) Dropbox chunked upload: 14.7 % uploaded (AAAAAAACAEeAUdP1WFGhng, 52428800, 10240 KB)
+0644.545 (0) The time we have been running (644.5) is approaching the resumption interval (672) - increasing resumption interval to 675
+0644.576 (0) Dropbox chunked upload: 17.7 % uploaded (AAAAAAACAEeAUdP1WFGhng, 62914560, 10240 KB)
+0649.349 (0) The time we have been running (649.3) is approaching the resumption interval (675) - increasing resumption interval to 680
+0649.380 (0) Dropbox chunked upload: 20.6 % uploaded (AAAAAAACAEeAUdP1WFGhng, 73400320, 10240 KB)
+0651.659 (0) The time we have been running (651.6) is approaching the resumption interval (680) - increasing resumption interval to 682
+0651.668 (0) Dropbox chunked upload: 23.5 % uploaded (AAAAAAACAEeAUdP1WFGhng, 83886080, 10240 KB)
+0653.861 (0) The time we have been running (653.8) is approaching the resumption interval (682) - increasing resumption interval to 684
+0653.874 (0) Dropbox chunked upload: 26.5 % uploaded (AAAAAAACAEeAUdP1WFGhng, 94371840, 10240 KB)
+0656.329 (0) The time we have been running (656.3) is approaching the resumption interval (684) - increasing resumption interval to 687
+0656.346 (0) Dropbox chunked upload: 29.4 % uploaded (AAAAAAACAEeAUdP1WFGhng, 104857600, 10240 KB)
+0658.944 (0) The time we have been running (658.9) is approaching the resumption interval (687) - increasing resumption interval to 689
+0658.956 (0) Dropbox chunked upload: 32.4 % uploaded (AAAAAAACAEeAUdP1WFGhng, 115343360, 10240 KB)
+0660.841 (0) The time we have been running (660.8) is approaching the resumption interval (689) - increasing resumption interval to 691
+0660.851 (0) Dropbox chunked upload: 35.3 % uploaded (AAAAAAACAEeAUdP1WFGhng, 125829120, 10240 KB)
+0663.056 (0) The time we have been running (663) is approaching the resumption interval (691) - increasing resumption interval to 694
+0663.083 (0) Dropbox chunked upload: 38.3 % uploaded (AAAAAAACAEeAUdP1WFGhng, 136314880, 10240 KB)
+0665.361 (0) The time we have been running (665.3) is approaching the resumption interval (694) - increasing resumption interval to 696
+0665.371 (0) Dropbox chunked upload: 41.2 % uploaded (AAAAAAACAEeAUdP1WFGhng, 146800640, 10240 KB)
+0667.291 (0) The time we have been running (667.3) is approaching the resumption interval (696) - increasing resumption interval to 698
+0667.297 (0) Dropbox chunked upload: 44.2 % uploaded (AAAAAAACAEeAUdP1WFGhng, 157286400, 10240 KB)
+0669.253 (0) The time we have been running (669.2) is approaching the resumption interval (698) - increasing resumption interval to 700
+0669.268 (0) Dropbox chunked upload: 47.1 % uploaded (AAAAAAACAEeAUdP1WFGhng, 167772160, 10240 KB)
+0671.745 (0) The time we have been running (671.7) is approaching the resumption interval (700) - increasing resumption interval to 702
+0671.757 (0) Dropbox chunked upload: 50 % uploaded (AAAAAAACAEeAUdP1WFGhng, 178257920, 10240 KB)
+0673.585 (0) The time we have been running (673.5) is approaching the resumption interval (702) - increasing resumption interval to 704
+0673.600 (0) Dropbox chunked upload: 53 % uploaded (AAAAAAACAEeAUdP1WFGhng, 188743680, 10240 KB)
+0676.191 (0) The time we have been running (676.2) is approaching the resumption interval (704) - increasing resumption interval to 707
+0676.206 (0) Dropbox chunked upload: 55.9 % uploaded (AAAAAAACAEeAUdP1WFGhng, 199229440, 10240 KB)
+0678.407 (0) The time we have been running (678.4) is approaching the resumption interval (707) - increasing resumption interval to 709
+0678.431 (0) Dropbox chunked upload: 58.9 % uploaded (AAAAAAACAEeAUdP1WFGhng, 209715200, 10240 KB)
+0680.962 (0) The time we have been running (680.8) is approaching the resumption interval (709) - increasing resumption interval to 711
+0680.970 (0) Dropbox chunked upload: 61.8 % uploaded (AAAAAAACAEeAUdP1WFGhng, 220200960, 10240 KB)
+0683.334 (0) The time we have been running (683.3) is approaching the resumption interval (711) - increasing resumption interval to 714
+0683.391 (0) Dropbox chunked upload: 64.8 % uploaded (AAAAAAACAEeAUdP1WFGhng, 230686720, 10240 KB)
+0686.349 (0) The time we have been running (686.3) is approaching the resumption interval (714) - increasing resumption interval to 717
+0686.410 (0) Dropbox chunked upload: 67.7 % uploaded (AAAAAAACAEeAUdP1WFGhng, 241172480, 10240 KB)
+0688.541 (0) The time we have been running (688.5) is approaching the resumption interval (717) - increasing resumption interval to 719
+0688.581 (0) Dropbox chunked upload: 70.6 % uploaded (AAAAAAACAEeAUdP1WFGhng, 251658240, 10240 KB)
+0690.948 (0) The time we have been running (690.9) is approaching the resumption interval (719) - increasing resumption interval to 721
+0690.960 (0) Dropbox chunked upload: 73.6 % uploaded (AAAAAAACAEeAUdP1WFGhng, 262144000, 10240 KB)
+0692.961 (0) The time we have been running (692.9) is approaching the resumption interval (721) - increasing resumption interval to 723
+0692.970 (0) Dropbox chunked upload: 76.5 % uploaded (AAAAAAACAEeAUdP1WFGhng, 272629760, 10240 KB)
+0696.214 (0) The time we have been running (696.2) is approaching the resumption interval (723) - increasing resumption interval to 727
+0696.249 (0) Dropbox chunked upload: 79.5 % uploaded (AAAAAAACAEeAUdP1WFGhng, 283115520, 10240 KB)
+0698.214 (0) The time we have been running (698.2) is approaching the resumption interval (727) - increasing resumption interval to 729
+0698.237 (0) Dropbox chunked upload: 82.4 % uploaded (AAAAAAACAEeAUdP1WFGhng, 293601280, 10240 KB)
+0700.480 (0) The time we have been running (700.5) is approaching the resumption interval (729) - increasing resumption interval to 731
+0700.490 (0) Dropbox chunked upload: 85.4 % uploaded (AAAAAAACAEeAUdP1WFGhng, 304087040, 10240 KB)
+0702.665 (0) The time we have been running (702.6) is approaching the resumption interval (731) - increasing resumption interval to 733
+0702.687 (0) Dropbox chunked upload: 88.3 % uploaded (AAAAAAACAEeAUdP1WFGhng, 314572800, 10240 KB)
+0705.677 (0) The time we have been running (705.6) is approaching the resumption interval (733) - increasing resumption interval to 736
+0705.698 (0) Dropbox chunked upload: 91.2 % uploaded (AAAAAAACAEeAUdP1WFGhng, 325058560, 10240 KB)
+0708.386 (0) The time we have been running (708.3) is approaching the resumption interval (736) - increasing resumption interval to 739
+0708.400 (0) Dropbox chunked upload: 94.2 % uploaded (AAAAAAACAEeAUdP1WFGhng, 335544320, 10240 KB)
+0711.355 (0) The time we have been running (711.3) is approaching the resumption interval (739) - increasing resumption interval to 742
+0711.368 (0) Dropbox chunked upload: 97.1 % uploaded (AAAAAAACAEeAUdP1WFGhng, 346030080, 10240 KB)
+0714.636 (0) The time we have been running (714.6) is approaching the resumption interval (742) - increasing resumption interval to 745
+0714.671 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAACAEeAUdP1WFGhng, 356242262, 10240 KB)
+0716.557 (0) Recording as successfully uploaded: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip
+0716.753 (0) Deleting local file: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip: OK
+0716.771 (0) Dropbox: File upload success (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-uploads.zip): 347892 KB in 88s (3925 KB/s)
+0717.134 (0) Dropbox: quota usage: used=361798.2 MB, total=1057152 MB, available=695353.8 MB
+0717.201 (0) Dropbox: Attempt to upload: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip to: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip
+0718.460 (0) The time we have been running (718.4) is approaching the resumption interval (745) - increasing resumption interval to 749
+0718.506 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAACAEgIygmc3_qR4Q, 976979, 10240 KB)
+0720.095 (0) Recording as successfully uploaded: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip
+0720.133 (0) Deleting local file: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip: OK
+0720.145 (0) Dropbox: File upload success (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-others.zip): 954 KB in 2s (324 KB/s)
+0720.589 (0) Dropbox: quota usage: used=361799.1 MB, total=1057152 MB, available=695352.9 MB
+0720.616 (0) Dropbox: Attempt to upload: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz to: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz
+0721.729 (0) The time we have been running (721.7) is approaching the resumption interval (749) - increasing resumption interval to 752
+0721.738 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAACAEnpegs_PJQJeQ, 539394, 10240 KB)
+0723.098 (0) Recording as successfully uploaded: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz
+0723.140 (0) Deleting local file: backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz: OK
+0723.153 (0) Dropbox: File upload success (backup_2018-12-24-1034_Kendal_Ki_Aikido_6dbaea3b2db9-db.gz): 526 KB in 2s (207 KB/s)
+0723.198 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0723.203 (0) Number of backup sets in history: 3; groups (db): 1
+0723.217 (0) Examining (for databases) backup set with group_id=0, nonce=6dbaea3b2db9, datestamp=1545647653 (Dec 24 2018 10:34:13)
+0723.231 (0) This backup set is the backup set just made, so will not be deleted.
+0723.231 (0) Examining (for databases) backup set with group_id=0, nonce=f9fb130471c0, datestamp=1545042851 (Dec 17 2018 10:34:11)
+0723.231 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0723.235 (0) Examining (for databases) backup set with group_id=0, nonce=4353d1cd33a0, datestamp=1544438040 (Dec 10 2018 10:34:00)
+0723.235 (0) 1544438040: db: this set includes a database (backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-db.gz); db count is now 2
+0723.235 (0) 1544438040: db: over retain limit (2); will delete this database
+0723.235 (0) Delete file: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-db.gz, service=dropbox
+0723.241 (0) Dropbox: request deletion: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-db.gz
+0723.879 (0) Dropbox: delete succeeded
+0723.916 (0) The time we have been running (723.9) is approaching the resumption interval (752) - increasing resumption interval to 754
+0723.949 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0723.952 (0) Number of backup sets in history: 3; groups (files): 1
+0723.956 (0) Examining (for files) backup set with nonce=6dbaea3b2db9, datestamp=1545647653 (Dec 24 2018 10:34:13)
+0723.956 (0) This backup set is the backup set just made, so will not be deleted.
+0723.966 (0) This backup set is the backup set just made, so will not be deleted.
+0723.967 (0) This backup set is the backup set just made, so will not be deleted.
+0723.967 (0) This backup set is the backup set just made, so will not be deleted.
+0723.967 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0723.970 (0) Examining (for files) backup set with nonce=f9fb130471c0, datestamp=1545042851 (Dec 17 2018 10:34:11)
+0723.970 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0723.970 (0) Examining (for files) backup set with nonce=4353d1cd33a0, datestamp=1544438040 (Dec 10 2018 10:34:00)
+0723.970 (0) plugins: over retain limit (2); will delete this file entity
+0723.970 (0) themes: over retain limit (2); will delete this file entity
+0723.970 (0) uploads: over retain limit (2); will delete this file entity
+0723.970 (0) others: over retain limit (2); will delete this file entity
+0723.970 (0) Delete file: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-plugins.zip, service=dropbox
+0723.975 (0) Delete file: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-themes.zip, service=dropbox
+0723.979 (0) Delete file: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-uploads.zip, service=dropbox
+0723.984 (0) Delete file: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-others.zip, service=dropbox
+0724.024 (0) Dropbox: request deletion: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-plugins.zip
+0724.723 (0) Dropbox: delete succeeded
+0724.732 (0) Dropbox: request deletion: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-themes.zip
+0725.511 (0) Dropbox: delete succeeded
+0725.534 (0) Dropbox: request deletion: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-uploads.zip
+0726.383 (0) Dropbox: delete succeeded
+0726.397 (0) Dropbox: request deletion: backup_2018-12-10-1034_Kendal_Ki_Aikido_4353d1cd33a0-others.zip
+0727.317 (0) Dropbox: delete succeeded
+0727.351 (0) The time we have been running (727.3) is approaching the resumption interval (754) - increasing resumption interval to 758
+0727.360 (0) This backup set is now empty; will remove from history
+0727.375 (0) Deleting log file (log.4353d1cd33a0.txt)
+0727.383 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0727.406 (0) Resume backup (6dbaea3b2db9, 0): finish run
+0727.420 (0) Decremented the semaphore (fd) by 1
+0727.437 (0) Semaphore (fd) unlocked
+0727.441 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0727.464 (0) Fetching RSS news feed
+0728.037 (0) Fetched RSS news feed; result is a: SimplePie
+0728.216 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: phil@...
+0728.629 (0) The backup apparently succeeded and is now complete
